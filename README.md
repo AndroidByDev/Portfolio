@@ -1,4 +1,4 @@
-# **Welcome to My GitHub Portfolio! 👋**
+# **Welcome to My Portfolio! 👋**
 
 
 Hi, I'm Dev, an experienced Android Developer with over 7 years of hands-on experience in designing, developing, and deploying cutting-edge mobile applications. 
