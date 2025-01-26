@@ -38,7 +38,7 @@ Let’s collaborate to create something impactful! 😊
 
 
 
-## ⚡ Powered by [TheDebug Infotech](https://thedebug.in/) [Digital Webx](https://www.digitalwebx.com/)
+## ⚡ Powered by [TheDebug Infotech](https://thedebug.in/) & [Digital Webx](https://www.digitalwebx.com/)
 
 
 
