@@ -243,7 +243,7 @@
         top: 20px;
     }
 
-    .arya-stack-about {
+    .dev-stack-about {
         font-size: 40px;
         line-height: 50px;
         max-width: 100%;
@@ -429,7 +429,7 @@
         margin-top: 25px;
     }
 
-    .arya-stack-about {
+    .dev-stack-about {
         font-size: 34px;
         line-height: 40px;
     }
@@ -534,7 +534,7 @@
         border-left: none;
     }
 
-    .aryaBtn-toggle-main {
+    .devBtn-toggle-main {
         display: flex;
         align-items: center;
         justify-content: center;

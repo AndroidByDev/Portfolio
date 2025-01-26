@@ -30,24 +30,20 @@ document.addEventListener('DOMContentLoaded', () => {
         };
 
         tl.to(".loading", {
-            delay: 1.2,
+            delay: 1.0,
             y: -50,
             opacity: 0,
-            duration: 0.6
+            duration: 0
         })
             .to(svg, {
-                duration: 0.6,
-                attr: { d: shapes.start },
-                ease: "power1.easeIn"
+                duration: 0,
             })
             .to(svg, {
-                duration: 0.6,
-                attr: { d: shapes.end },
-                ease: "power1.easeOut"
+                duration: 0,
             })
             .to(".preloader", {
                 y: -1000,
-                duration: 0.8
+                duration: 0
             })
             .set(".preloader", {
                 zIndex: -1,
