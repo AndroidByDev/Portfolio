@@ -25,7 +25,7 @@ Strong debugging and troubleshooting skills
 
 ## **🤝 Let’s Connect!**
 
-- [Portfolio](https://androidbydev.github.io/portfolio)
+- [Portfolio](https://androidbydev.github.io/Portfolio)
 - [LinkedIn](https://www.linkedin.com/in/androidbydev)
 - [Email](mailto:saini.devo15@gmail.com)
 
